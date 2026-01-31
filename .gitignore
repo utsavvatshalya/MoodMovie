@@ -1,4 +1,1 @@
-.env
-__pycache__/
-*.pkl
-movies_data.csv
+node_modules/
